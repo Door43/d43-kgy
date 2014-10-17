@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kgy:home|Door43 (kgy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kgy|d43-kgy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kgy/archive/master.zip|d43-kgy.zip]]
+
+**Recent Changes**
+{{changes>ns = kgy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kgy|Ethnologue data]]
+
